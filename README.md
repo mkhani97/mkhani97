@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkhani97 I am a studying a BSc in Computing Science Speacializing in Software at the University of Alberta
+- 👋 Hi, I’m @mkhani97 I am a studying a BSc in Computing Science at the University of Alberta
 
 
 
